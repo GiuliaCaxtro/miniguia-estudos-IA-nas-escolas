@@ -54,6 +54,7 @@ Isso mostra que aprender não é só receber respostas, é processar, pensar e c
 O problema é como usamos ela.
 
 Se usada como apoio → ela acelera o aprendizado
+
 Se usada como substituição → ela enfraquece o pensamento
 
  O futuro da educação não depende da tecnologia
