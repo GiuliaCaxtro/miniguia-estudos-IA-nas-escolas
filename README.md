@@ -246,6 +246,7 @@ Em resumo, as fontes enfatizam que o maior perigo não é a tecnologia em si, ma
 </div>
 
 </details>
+
 ### 💡 O que aconteceu:
 
 A resposta veio boa… mas genérica demais
